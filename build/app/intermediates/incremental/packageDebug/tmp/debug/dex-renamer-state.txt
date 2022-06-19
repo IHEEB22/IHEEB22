@@ -1,0 +1,4 @@
+#Mon Jun 13 20:06:12 WAT 2022
+base.0=C\:\\Users\\21651\\Desktop\\app1firebase\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
